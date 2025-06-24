@@ -12,9 +12,9 @@ Microsoft Power BI
 Dataset: Superstore.csv
 
 📈 Dashboard Overview
-The dashboard visualizes the Superstore dataset, highlighting critical performance metrics across different dimensions:
+The dashboard visualizes the Superstore dataset, highlighting critical performance metrics across different dimensions.
 
-Key Metrics Displayed:
+Key Metrics Displayed
 Total Sales: 2.30M
 
 Total Profit: 0.29M
@@ -23,7 +23,7 @@ Total Quantity Sold: 38K
 
 Total Discount: 1.56K
 
-Visual Components:
+Visual Components
 Sales by State: Top performing states like California and New York drive a significant portion of revenue.
 
 Sales by Category: Technology leads the category-wise sales at 36.4%, followed by Furniture and Office Supplies.
@@ -47,15 +47,21 @@ The South region underperforms in profit compared to East and West.
 The dashboard provides a comprehensive view of sales performance across time, geography, and product segments. It enables stakeholders to:
 
 Identify high-performing regions and products
+
 Spot profit leakages (e.g., high-discount/low-margin items)
+
 Make data-driven decisions on product promotion or region focus
 
 📸 Dashboard Screenshot
-![image](https://github.com/user-attachments/assets/2931bb74-39a9-4b7b-84fe-376150a54fbf)
+![image](https://github.com/user-attachments/assets/4a5f37d5-3ff6-4dcf-8a3b-91a24af9fb0d)
+
+
 
 🗂 Files Included
 superstore.pbix – Power BI Dashboard File
-Sample - Superstore.csv – Dataset
-Screenshot  – Visual report image
-README.md – Project overview and instructions
 
+Sample - Superstore.csv – Dataset
+
+Screenshot – Visual report image
+
+README.md – Project overview and instructions
